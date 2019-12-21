@@ -1,0 +1,52 @@
+The 5 largest families: 
+Canonical: aeprs
+Size: 12
+[spear, spare, reaps, rapes, presa, prase, pears, parse, pares, asper, apres, apers]
+
+Canonical: aelrst
+Size: 11
+[talers, stelar, staler, slater, salter, ratels, laster, estral, artels, alters, alerts]
+
+Canonical: aelst
+Size: 10
+[tesla, teals, tales, taels, stela, steal, stale, slate, setal, least]
+
+Canonical: aceprs
+Size: 9
+[spacer, secpar, scrape, recaps, parsec, pacers, escarp, crapes, capers]
+
+Canonical: aeinrst
+Size: 9
+[stearin, stainer, retsina, retinas, retains, ratines, nastier, antsier, anestri]
+
+
+Families of length 8: 
+Canonical: acerst
+[traces, recast, reacts, crates, caters, caster, cartes, carets]
+
+Canonical: aeginrs
+[seringa, searing, reginas, regains, reagins, gainers, erasing, earings]
+
+Canonical: aelps
+[spale, sepal, salep, pleas, peals, pales, leaps, lapse]
+
+Canonical: aelrs
+[seral, reals, rales, lears, laser, lares, earls, arles]
+
+Canonical: aeprss
+[spears, sparse, spares, repass, prases, passer, parses, aspers]
+
+Canonical: aest
+[teas, seta, seat, sate, etas, eats, east, ates]
+
+Canonical: eenrst
+[treens, ternes, tenser, resent, rentes, renest, nester, enters]
+
+Canonical: eiprs
+[spire, spier, speir, ripes, prise, pries, piers, peris]
+
+
+The Last Family: 
+Size: 1
+Canonical: ux
+[xu]
